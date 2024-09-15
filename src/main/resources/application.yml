@@ -8,4 +8,4 @@ spring:
     import: optional:configserver:http://localhost:7001
   profiles:
     active:
-      dev
+      "dev"
